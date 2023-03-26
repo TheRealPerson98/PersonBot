@@ -1,0 +1,6 @@
+{
+  "botToken": "YOUR_BOT_TOKEN",
+  "githubToken": "YOUR_GITHUB_ACCESS_TOKEN",
+  "repositoryName": "YOUR_REPOSITORY_NAME",
+  "clientId": "YOUR_CLIENT_ID"
+}
